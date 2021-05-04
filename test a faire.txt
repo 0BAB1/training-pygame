@@ -1,0 +1,3 @@
+resolutions
+camera
+recenter main menu
